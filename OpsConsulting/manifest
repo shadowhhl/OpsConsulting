@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Sealed: true
+Class-Path: lib/org.eclipse.core.runtime_3.7.0.v20110110.jar
+  lib/mysql-connector-java-5.1.22-bin.jar
+  lib/org.eclipse.swt.cocoa.macosx.x86_64_3.7.2.v3740f
+Main-Class: ops.MainWindow

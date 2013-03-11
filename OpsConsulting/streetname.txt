@@ -1,0 +1,15 @@
+av avenue ave
+st street
+dr drive
+ct court
+pl place
+wy way
+ln lane
+rd road
+bl blvd boulevard
+cr circle
+pw parkway
+hwy highway
+pa path
+lkwy lakeway
+ca causeway
